@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📖 I’m currently study at [University of Merdeka Malang](https://unmer.ac.id/)
 
 ##### Tech Stack
-<!-- Frontend -->
+<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -29,20 +29,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-<!-- Backend -->
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-
-<!-- Database -->
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
-
-<!-- Tools & Others -->
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" />
+</p>
 
 ##### Connect With Me
 <p>
@@ -59,12 +54,8 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/willyrafaelfs/willyrafaelfs/output/snake.svg" alt="Snake animation" />
 
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/31aiynexbr2vmqnjedubvk3jq2km">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31aiynexbr2vmqnjedubvk3jq2km&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
