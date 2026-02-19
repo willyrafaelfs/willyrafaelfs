@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World!👋
+
+![Willy Rafael](img/github-header-banner.png)
 
 <!--
 **willyrafaelfs/willyrafaelfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **Next JS** Framework
+- 📖 I’m currently study at [University of Merdeka Malang](https://unmer.ac.id/)
