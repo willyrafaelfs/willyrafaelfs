@@ -54,6 +54,14 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/willyrafaelfs/willyrafaelfs/output/snake.svg" alt="Snake animation" />
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=willyrafaelfs&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=willyrafaelfs&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=willyrafaelfs&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=willyrafaelfs&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <div align="center">
   <a href="https://open.spotify.com/user/31aiynexbr2vmqnjedubvk3jq2km">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31aiynexbr2vmqnjedubvk3jq2km&count=5&unique=false" alt="Spotify recently played"  />
