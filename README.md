@@ -84,6 +84,6 @@ I am an **Information Systems** student focused on **Full-Stack Web Development*
 
 <div align="center">
   <a href="https://open.spotify.com/user/31aiynexbr2vmqnjedubvk3jq2km">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31aiynexbr2vmqnjedubvk3jq2km&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31aiynexbr2vmqnjedubvk3jq2km" alt="Spotify recently played" width="400" />
+</a>
 </div>
